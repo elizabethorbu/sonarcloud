@@ -1,0 +1,14 @@
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\bin\Debug\netcoreapp3.1\ordenamiiento.exe
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\bin\Debug\netcoreapp3.1\ordenamiiento.deps.json
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\bin\Debug\netcoreapp3.1\ordenamiiento.runtimeconfig.json
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\bin\Debug\netcoreapp3.1\ordenamiiento.runtimeconfig.dev.json
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\bin\Debug\netcoreapp3.1\ordenamiiento.dll
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\bin\Debug\netcoreapp3.1\ordenamiiento.pdb
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.csproj.AssemblyReference.cache
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.AssemblyInfoInputs.cache
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.AssemblyInfo.cs
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.csproj.CoreCompileInputs.cache
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.dll
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.pdb
+C:\Users\JUANN\source\repos\ordenamiiento\ordenamiiento\obj\Debug\netcoreapp3.1\ordenamiiento.genruntimeconfig.cache
